@@ -1,0 +1,37 @@
+## .gitignore ##
+# ignore all
+*
+*/
+
+# allow any
+!/src
+!/src/
+!/gradle
+!/gradle/
+!/lib
+!/lib/
+!/libs
+!/libs/
+!/annotations
+!/annotations/
+!/version
+!/version/
+!/info
+!/info/
+!/build.gradle
+!/settings.gradle
+!/gradle.properties
+!/install.bat
+!/Release.bat
+!/gradlew
+!/gradlew.bat
+!/build.bat
+!/LICENSE
+!/LICENSE.md
+!/README
+!/README.md
+!/CONTRIBUTING
+!/CONTRIBUTING.md
+!/.gitignore
+!/.gitmodules
+!/.gitattributes

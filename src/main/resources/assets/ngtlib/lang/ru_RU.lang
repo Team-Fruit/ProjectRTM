@@ -1,0 +1,13 @@
+
+message.version=Доступна новая версия %s
+message.regKey.0=Неверный адрес URL
+message.regKey.1=Не удалось подключиться к сайту проверки подлинности
+message.regKey.2=Проверка подлинности не разрешена
+message.regKey.3=Проверка подлинности разрешена
+message.regKey.4=Подлинность проверена
+message.regKey.5=Неверный ключ
+
+commands.ngt.usage=/ngt 'ключ проверки подлинности'
+commands.ngt.invalid_command=Неверный ключ
+
+gui.warning=Пожалуйста, введите ключ проверки подлинности!
